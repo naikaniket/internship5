@@ -1,0 +1,62 @@
+body {
+    margin: 50px;
+}
+
+.cont {}
+
+.box {
+    display: flex;
+    box-sizing: content-box;
+}
+
+.b1 {
+    margin-right: 25px;
+    padding: 7px 20px;
+    background: #ff703cde;
+    font-family: system-ui;
+    color: #fff;
+    height: 21px;
+    border-radius: 15px 15px 0 15px;
+}
+
+.b2 {
+    height: 19px;
+    font-family: system-ui;
+    color: #fff;
+    letter-spacing: .7px;
+    padding: 8px 20px;
+    background: #ffc107;
+    border-radius: 15px 15px 15px 0;
+}
+
+.text {
+    margin-top: 20px;
+    font-weight: 600;
+    font-family: system-ui;
+    font-size: larger;
+    padding-right: 23px;
+    text-align: left;
+    font-size: 24px;
+    color: rgb(53 129 241);
+    margin-bottom: 20px
+}
+
+.techdetail {
+    display: flex;
+}
+
+.tech {
+    display: flex;
+}
+
+.icon {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.iconname {
+    font-family: system-ui;
+    margin-right: 10px;
+    font-weight: 600;
+}
